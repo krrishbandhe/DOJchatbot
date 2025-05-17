@@ -1,0 +1,11 @@
+langchain
+langsmith
+openai
+langchain_groq 
+ipykernel
+langchain_community
+pypdf
+langchain_openai
+scikit-learn
+langchain_huggingface
+langgraph
